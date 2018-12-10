@@ -43,7 +43,7 @@ E.g.:
 ./ns_backup.sh default
 ```
 
-![](video/Kubernetes_Backup.m4v)
+![](./video/Kubernetes_Backup.m4v)
 
 ## Authors
 
