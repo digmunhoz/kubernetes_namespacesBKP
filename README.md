@@ -43,8 +43,6 @@ E.g.:
 ./ns_backup.sh default
 ```
 
-![](./video/Kubernetes_Backup.m4v)
-
 ## Authors
 
 * **Diogo Munhoz Fraga** - [digmunhoz](https://github.com/digmunhoz)
